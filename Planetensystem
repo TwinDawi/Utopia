@@ -1,0 +1,9 @@
+Um ein Planetensystem mit Auswirkungen auf das Spiel zu gestalten braucht man Eigenschaften für die Planeten,
+hier mein Vorschlag:
+
+1. Beschaffenheit/Lage ---> Welche Rohstoffe gibt es ? Welche Lage innerhalb des interstellaren Raums
+2. Gesellschaftliche Aspekte ---> Kultur, Politik, Herrschaftsystem, Märkte, Untergrund(Rebellen,Mafiöse Strukturen,
+   Schwarzmarkt)
+3. Zustand ---> Junger Planet(Viele Rohstoffe) aber wenig Kultur/Technik | Mittlerer Planet (Moderate Rohstoffe) 
+   aber mittelmäßige Kultur/Technik | alter Planet(wenig Rohstoffe) aber Hightculture/Technik
+
